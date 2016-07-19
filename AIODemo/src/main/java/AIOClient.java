@@ -9,7 +9,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
 /**
- * Created by timely on 2016/7/18.
+ * Created by bl04559 on 2016/7/18.
  */
 public class AIOClient{
     private AsynchronousSocketChannel client;

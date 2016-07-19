@@ -2,7 +2,7 @@ import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
 
 /**
- * Created by timely on 2016/7/18.
+ * Created by bl04559 on 2016/7/18.
  */
 public class Util {
     public static String buff2String(ByteBuffer buffer, Charset charset){
