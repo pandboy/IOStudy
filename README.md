@@ -22,4 +22,4 @@
   
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;举个例子：小明去买包子，但是包子还没做好，然后小明留下地址走了，回去做其他事情了，包子做好了，老板叫哒哒外送把包子送到小明留的地址，小明终于吃到了包子。
   </p>
-    ![alt text](./resource/img/aio.jpg "异步同步非阻塞IO")
+    ![alt text](./resource/img/aiojpg.jpg "异步同步非阻塞IO")
